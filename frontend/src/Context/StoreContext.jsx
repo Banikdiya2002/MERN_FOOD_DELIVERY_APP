@@ -7,7 +7,7 @@ const StoreContextProvider = (props) => {
 
   const [cartItems, setCartItems] = useState({});
 
-  const url="https://tomato-food-app-f2at.onrender.com/";
+  const url="https://tomato-food-app-f2at.onrender.com";
 
   const [token,setToken]=useState("")
 
