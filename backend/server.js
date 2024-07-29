@@ -10,7 +10,7 @@ import orderRouter from "./routes/orderRoute.js"
 
 //app config
 const app=express()
-const port=4000
+const port="https://tomato-food-app-f2at.onrender.com"
 
 
 //middleware
