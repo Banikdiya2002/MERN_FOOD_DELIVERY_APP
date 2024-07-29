@@ -67,7 +67,7 @@ const razorpayInstance = new Razorpay({
 
 // Placing user order from frontend
 const placeOrder = async (req, res) => {
-  const frontend_url = "https://66a4f15c9f41aa1eec249a9c--silver-lebkuchen-cf6597.netlify.app";
+  const frontend_url = "https://frontendtomato-b7bp8ibu4-diya-baniks-projects.vercel.app";
 
   try {
     // Create a new order in your database
